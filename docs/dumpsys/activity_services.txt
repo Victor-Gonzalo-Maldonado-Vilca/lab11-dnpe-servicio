@@ -1,0 +1,37 @@
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{d051a7 u0 com.example.lab11servicio/.SesionEscuchaService c:com.example.lab11servicio}
+    intent={cmp=com.example.lab11servicio/.SesionEscuchaService}
+    packageName=com.example.lab11servicio
+    processName=com.example.lab11servicio
+    targetSdkVersion=37
+    baseDir=/data/app/~~4ViOm6IRVeIOTnCpmpfMfg==/com.example.lab11servicio-T0uD2ls6CW7ESbVnLam6dw==/base.apk
+    dataDir=/data/user/0/com.example.lab11servicio
+    app=ProcessRecord{977eed3 17248:com.example.lab11servicio/u0a249}
+    useNewWiuLogic_forCapabilities()=true
+    useNewWiuLogic_forStart()=true
+    useNewBfslLogic()=true
+    mAllowWiu_noBinding=PROC_STATE_TOP
+    mAllowWiu_inBindService=DENIED
+    mAllowWiu_byBindings=DENIED
+    getFgsAllowWiu_legacy=PROC_STATE_TOP
+    getFgsAllowWiu_new=PROC_STATE_TOP
+    getFgsAllowWiu_forStart=PROC_STATE_TOP
+    getFgsAllowWiu_forCapabilities=PROC_STATE_TOP
+    allowUiJobScheduling=true
+    recentCallingPackage=com.example.lab11servicio
+    recentCallingUid=10249
+    mAllowStart_noBinding=PROC_STATE_TOP
+    mAllowStart_inBindService=DENIED
+    mAllowStart_byBindings=DENIED
+    getFgsAllowStart_legacy=PROC_STATE_TOP
+    getFgsAllowStart_new=PROC_STATE_TOP
+    getFgsAllowStart=PROC_STATE_TOP
+    startForegroundCount=1
+    infoAllowStartForeground=[callingPackage: com.example.lab11servicio; callingUid: 10249; uidState: TOP ; uidBFSL: [BFSL]; BFGS denied: false; intent: Intent { xflg=0x4 cmp=com.example.lab11servicio/.SesionEscuchaService (has extras) }; code:PROC_STATE_TOP; tempAllowListReason:<null>; allowWiu:12; targetSdkVersion:37; callerTargetSdkVersion:37; startForegroundCount:0; bindFromPackage:null; isBindService:false]
+    isNativeIsolated=false
+    isForeground=true foregroundId=1101 types=0x00000002 foregroundNoti=Notification(channel=sesion_escucha shortcut=null contentView=null vibrate=null sound=null defaults=0 flags=ONGOING_EVENT|ONLY_ALERT_ONCE|NO_CLEAR|FOREGROUND_SERVICE|SILENT color=0xff8b5cf6 category=service actions=1 vis=PUBLIC template=null)
+    createTime=-31s360ms startingBgTimeout=--
+    lastActivity=-31s359ms restartTime=-31s359ms createdFromFg=true
+    startRequested=true delayedStop=false stopIfKilled=true callStart=true lastStartId=1
+ startCommandResult=2

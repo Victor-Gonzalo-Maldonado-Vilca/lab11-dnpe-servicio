@@ -1,0 +1,141 @@
+--------- beginning of main
+11-25 03:25:32.684 17248 17248 I NocturneSesion: Activity onStart: app VISIBLE
+11-25 03:25:43.637 17248 17248 I NocturneSesion: Permiso POST_NOTIFICATIONS concedido=true
+11-25 03:25:43.649 17248 17248 I NocturneSesion: UI -> startForegroundService (limite=sin limite)
+11-25 03:25:43.670 17248 17248 I NocturneSesion: onCreate
+11-25 03:25:43.686 17248 17248 I NocturneSesion: startForeground id=1101 tipo=mediaPlayback limite=sin limite
+11-25 03:25:43.727 17248 17248 I NocturneSesion: Audio iniciado (MediaPlayer, bucle)
+11-25 03:25:44.677 17248 17248 D NocturneSesion: TICK n=1 t=00:01 app=visible audio=true
+11-25 03:25:45.676 17248 17248 D NocturneSesion: TICK n=2 t=00:02 app=visible audio=true
+11-25 03:25:46.674 17248 17248 D NocturneSesion: TICK n=3 t=00:03 app=visible audio=true
+11-25 03:25:47.675 17248 17248 D NocturneSesion: TICK n=4 t=00:04 app=visible audio=true
+11-25 03:25:48.686 17248 17248 D NocturneSesion: TICK n=5 t=00:05 app=visible audio=true
+11-25 03:25:49.686 17248 17248 D NocturneSesion: TICK n=6 t=00:06 app=visible audio=true
+11-25 03:25:50.684 17248 17248 D NocturneSesion: TICK n=7 t=00:07 app=visible audio=true
+11-25 03:25:51.683 17248 17248 D NocturneSesion: TICK n=8 t=00:08 app=visible audio=true
+11-25 03:25:52.674 17248 17248 D NocturneSesion: TICK n=9 t=00:09 app=visible audio=true
+11-25 03:25:53.682 17248 17248 I NocturneSesion: Activity onStop: app en SEGUNDO PLANO
+11-25 03:25:53.694 17248 17248 D NocturneSesion: TICK n=10 t=00:10 app=segundo_plano audio=true
+11-25 03:25:54.675 17248 17248 D NocturneSesion: TICK n=11 t=00:11 app=segundo_plano audio=true
+11-25 03:25:55.675 17248 17248 D NocturneSesion: TICK n=12 t=00:12 app=segundo_plano audio=true
+11-25 03:25:56.674 17248 17248 D NocturneSesion: TICK n=13 t=00:13 app=segundo_plano audio=true
+11-25 03:25:57.675 17248 17248 D NocturneSesion: TICK n=14 t=00:14 app=segundo_plano audio=true
+11-25 03:25:58.676 17248 17248 D NocturneSesion: TICK n=15 t=00:15 app=segundo_plano audio=true
+11-25 03:25:59.675 17248 17248 D NocturneSesion: TICK n=16 t=00:16 app=segundo_plano audio=true
+11-25 03:26:00.675 17248 17248 D NocturneSesion: TICK n=17 t=00:17 app=segundo_plano audio=true
+11-25 03:26:01.674 17248 17248 D NocturneSesion: TICK n=18 t=00:18 app=segundo_plano audio=true
+11-25 03:26:02.675 17248 17248 D NocturneSesion: TICK n=19 t=00:19 app=segundo_plano audio=true
+11-25 03:26:03.675 17248 17248 D NocturneSesion: TICK n=20 t=00:20 app=segundo_plano audio=true
+11-25 03:26:04.677 17248 17248 D NocturneSesion: TICK n=21 t=00:21 app=segundo_plano audio=true
+11-25 03:26:05.676 17248 17248 D NocturneSesion: TICK n=22 t=00:22 app=segundo_plano audio=true
+11-25 03:26:06.674 17248 17248 D NocturneSesion: TICK n=23 t=00:23 app=segundo_plano audio=true
+11-25 03:26:07.673 17248 17248 D NocturneSesion: TICK n=24 t=00:24 app=segundo_plano audio=true
+11-25 03:26:08.676 17248 17248 D NocturneSesion: TICK n=25 t=00:25 app=segundo_plano audio=true
+11-25 03:26:09.680 17248 17248 D NocturneSesion: TICK n=26 t=00:26 app=segundo_plano audio=true
+11-25 03:26:10.676 17248 17248 D NocturneSesion: TICK n=27 t=00:27 app=segundo_plano audio=true
+11-25 03:26:11.675 17248 17248 D NocturneSesion: TICK n=28 t=00:28 app=segundo_plano audio=true
+11-25 03:26:12.679 17248 17248 D NocturneSesion: TICK n=29 t=00:29 app=segundo_plano audio=true
+11-25 03:26:13.674 17248 17248 D NocturneSesion: TICK n=30 t=00:30 app=segundo_plano audio=true
+11-25 03:26:14.675 17248 17248 D NocturneSesion: TICK n=31 t=00:31 app=segundo_plano audio=true
+11-25 03:26:15.675 17248 17248 D NocturneSesion: TICK n=32 t=00:32 app=segundo_plano audio=true
+11-25 03:26:16.676 17248 17248 D NocturneSesion: TICK n=33 t=00:33 app=segundo_plano audio=true
+11-25 03:26:17.675 17248 17248 D NocturneSesion: TICK n=34 t=00:34 app=segundo_plano audio=true
+11-25 03:26:18.676 17248 17248 D NocturneSesion: TICK n=35 t=00:35 app=segundo_plano audio=true
+11-25 03:26:19.676 17248 17248 D NocturneSesion: TICK n=36 t=00:36 app=segundo_plano audio=true
+11-25 03:26:20.674 17248 17248 D NocturneSesion: TICK n=37 t=00:37 app=segundo_plano audio=true
+11-25 03:26:21.676 17248 17248 D NocturneSesion: TICK n=38 t=00:38 app=segundo_plano audio=true
+11-25 03:26:22.674 17248 17248 D NocturneSesion: TICK n=39 t=00:39 app=segundo_plano audio=true
+11-25 03:26:23.677 17248 17248 D NocturneSesion: TICK n=40 t=00:40 app=segundo_plano audio=true
+11-25 03:26:24.674 17248 17248 D NocturneSesion: TICK n=41 t=00:41 app=segundo_plano audio=true
+11-25 03:26:25.675 17248 17248 D NocturneSesion: TICK n=42 t=00:42 app=segundo_plano audio=true
+11-25 03:26:26.675 17248 17248 D NocturneSesion: TICK n=43 t=00:43 app=segundo_plano audio=true
+11-25 03:26:27.675 17248 17248 D NocturneSesion: TICK n=44 t=00:44 app=segundo_plano audio=true
+11-25 03:26:28.676 17248 17248 D NocturneSesion: TICK n=45 t=00:45 app=segundo_plano audio=true
+11-25 03:26:29.675 17248 17248 D NocturneSesion: TICK n=46 t=00:46 app=segundo_plano audio=true
+11-25 03:26:30.675 17248 17248 D NocturneSesion: TICK n=47 t=00:47 app=segundo_plano audio=true
+11-25 03:26:31.675 17248 17248 D NocturneSesion: TICK n=48 t=00:48 app=segundo_plano audio=true
+11-25 03:26:32.674 17248 17248 D NocturneSesion: TICK n=49 t=00:49 app=segundo_plano audio=true
+11-25 03:26:33.675 17248 17248 D NocturneSesion: TICK n=50 t=00:50 app=segundo_plano audio=true
+11-25 03:26:34.675 17248 17248 D NocturneSesion: TICK n=51 t=00:51 app=segundo_plano audio=true
+11-25 03:26:35.674 17248 17248 D NocturneSesion: TICK n=52 t=00:52 app=segundo_plano audio=true
+11-25 03:26:36.675 17248 17248 D NocturneSesion: TICK n=53 t=00:53 app=segundo_plano audio=true
+11-25 03:26:37.675 17248 17248 D NocturneSesion: TICK n=54 t=00:54 app=segundo_plano audio=true
+11-25 03:26:38.676 17248 17248 D NocturneSesion: TICK n=55 t=00:55 app=segundo_plano audio=true
+11-25 03:26:39.675 17248 17248 D NocturneSesion: TICK n=56 t=00:56 app=segundo_plano audio=true
+11-25 03:26:40.674 17248 17248 D NocturneSesion: TICK n=57 t=00:57 app=segundo_plano audio=true
+11-25 03:26:41.674 17248 17248 D NocturneSesion: TICK n=58 t=00:58 app=segundo_plano audio=true
+11-25 03:26:42.679 17248 17248 D NocturneSesion: TICK n=59 t=00:59 app=segundo_plano audio=true
+11-25 03:26:43.675 17248 17248 D NocturneSesion: TICK n=60 t=01:00 app=segundo_plano audio=true
+11-25 03:26:44.674 17248 17248 D NocturneSesion: TICK n=61 t=01:01 app=segundo_plano audio=true
+11-25 03:26:45.166 17248 17248 I NocturneSesion: DETENER solicitado (origen=notificacion)
+11-25 03:26:45.205 17248 17248 I NocturneSesion: stopForeground(REMOVE) + stopSelf: duracion=01:01 actualizaciones=61
+11-25 03:26:45.205 17248 17248 I NocturneSesion: onDestroy
+11-25 03:26:52.661 17248 17248 I NocturneSesion: Activity onStart: app VISIBLE
+11-25 03:27:01.647 17248 17248 I NocturneSesion: UI -> startForegroundService (limite=60)
+11-25 03:27:01.650 17248 17248 I NocturneSesion: onCreate
+11-25 03:27:01.653 17248 17248 I NocturneSesion: startForeground id=1101 tipo=mediaPlayback limite=60
+11-25 03:27:01.680 17248 17248 I NocturneSesion: Audio iniciado (MediaPlayer, bucle)
+11-25 03:27:02.655 17248 17248 D NocturneSesion: TICK n=1 t=00:01 app=visible audio=true
+11-25 03:27:03.656 17248 17248 D NocturneSesion: TICK n=2 t=00:02 app=visible audio=true
+11-25 03:27:04.655 17248 17248 D NocturneSesion: TICK n=3 t=00:03 app=visible audio=true
+11-25 03:27:05.655 17248 17248 D NocturneSesion: TICK n=4 t=00:04 app=visible audio=true
+11-25 03:27:06.656 17248 17248 D NocturneSesion: TICK n=5 t=00:05 app=visible audio=true
+11-25 03:27:07.656 17248 17248 D NocturneSesion: TICK n=6 t=00:06 app=visible audio=true
+11-25 03:27:08.654 17248 17248 D NocturneSesion: TICK n=7 t=00:07 app=visible audio=true
+11-25 03:27:09.654 17248 17248 D NocturneSesion: TICK n=8 t=00:08 app=visible audio=true
+11-25 03:27:10.656 17248 17248 D NocturneSesion: TICK n=9 t=00:09 app=visible audio=true
+11-25 03:27:11.224 17248 17248 I NocturneSesion: Activity onStop: app en SEGUNDO PLANO
+11-25 03:27:11.657 17248 17248 D NocturneSesion: TICK n=10 t=00:10 app=segundo_plano audio=true
+11-25 03:27:12.656 17248 17248 D NocturneSesion: TICK n=11 t=00:11 app=segundo_plano audio=true
+11-25 03:27:13.656 17248 17248 D NocturneSesion: TICK n=12 t=00:12 app=segundo_plano audio=true
+11-25 03:27:14.656 17248 17248 D NocturneSesion: TICK n=13 t=00:13 app=segundo_plano audio=true
+11-25 03:27:15.655 17248 17248 D NocturneSesion: TICK n=14 t=00:14 app=segundo_plano audio=true
+11-25 03:27:16.656 17248 17248 D NocturneSesion: TICK n=15 t=00:15 app=segundo_plano audio=true
+11-25 03:27:17.657 17248 17248 D NocturneSesion: TICK n=16 t=00:16 app=segundo_plano audio=true
+11-25 03:27:18.655 17248 17248 D NocturneSesion: TICK n=17 t=00:17 app=segundo_plano audio=true
+11-25 03:27:19.656 17248 17248 D NocturneSesion: TICK n=18 t=00:18 app=segundo_plano audio=true
+11-25 03:27:20.655 17248 17248 D NocturneSesion: TICK n=19 t=00:19 app=segundo_plano audio=true
+11-25 03:27:21.656 17248 17248 D NocturneSesion: TICK n=20 t=00:20 app=segundo_plano audio=true
+11-25 03:27:22.656 17248 17248 D NocturneSesion: TICK n=21 t=00:21 app=segundo_plano audio=true
+11-25 03:27:23.654 17248 17248 D NocturneSesion: TICK n=22 t=00:22 app=segundo_plano audio=true
+11-25 03:27:24.656 17248 17248 D NocturneSesion: TICK n=23 t=00:23 app=segundo_plano audio=true
+11-25 03:27:25.655 17248 17248 D NocturneSesion: TICK n=24 t=00:24 app=segundo_plano audio=true
+11-25 03:27:26.656 17248 17248 D NocturneSesion: TICK n=25 t=00:25 app=segundo_plano audio=true
+11-25 03:27:27.655 17248 17248 D NocturneSesion: TICK n=26 t=00:26 app=segundo_plano audio=true
+11-25 03:27:28.657 17248 17248 D NocturneSesion: TICK n=27 t=00:27 app=segundo_plano audio=true
+11-25 03:27:29.655 17248 17248 D NocturneSesion: TICK n=28 t=00:28 app=segundo_plano audio=true
+11-25 03:27:30.656 17248 17248 D NocturneSesion: TICK n=29 t=00:29 app=segundo_plano audio=true
+11-25 03:27:31.656 17248 17248 D NocturneSesion: TICK n=30 t=00:30 app=segundo_plano audio=true
+11-25 03:27:32.655 17248 17248 D NocturneSesion: TICK n=31 t=00:31 app=segundo_plano audio=true
+11-25 03:27:33.656 17248 17248 D NocturneSesion: TICK n=32 t=00:32 app=segundo_plano audio=true
+11-25 03:27:34.656 17248 17248 D NocturneSesion: TICK n=33 t=00:33 app=segundo_plano audio=true
+11-25 03:27:35.656 17248 17248 D NocturneSesion: TICK n=34 t=00:34 app=segundo_plano audio=true
+11-25 03:27:36.656 17248 17248 D NocturneSesion: TICK n=35 t=00:35 app=segundo_plano audio=true
+11-25 03:27:37.656 17248 17248 D NocturneSesion: TICK n=36 t=00:36 app=segundo_plano audio=true
+11-25 03:27:38.655 17248 17248 D NocturneSesion: TICK n=37 t=00:37 app=segundo_plano audio=true
+11-25 03:27:39.655 17248 17248 D NocturneSesion: TICK n=38 t=00:38 app=segundo_plano audio=true
+11-25 03:27:40.656 17248 17248 D NocturneSesion: TICK n=39 t=00:39 app=segundo_plano audio=true
+11-25 03:27:41.655 17248 17248 D NocturneSesion: TICK n=40 t=00:40 app=segundo_plano audio=true
+11-25 03:27:42.656 17248 17248 D NocturneSesion: TICK n=41 t=00:41 app=segundo_plano audio=true
+11-25 03:27:43.656 17248 17248 D NocturneSesion: TICK n=42 t=00:42 app=segundo_plano audio=true
+11-25 03:27:44.661 17248 17248 D NocturneSesion: TICK n=43 t=00:43 app=segundo_plano audio=true
+11-25 03:27:45.657 17248 17248 D NocturneSesion: TICK n=44 t=00:44 app=segundo_plano audio=true
+11-25 03:27:46.656 17248 17248 D NocturneSesion: TICK n=45 t=00:45 app=segundo_plano audio=true
+11-25 03:27:47.655 17248 17248 D NocturneSesion: TICK n=46 t=00:46 app=segundo_plano audio=true
+11-25 03:27:48.656 17248 17248 D NocturneSesion: TICK n=47 t=00:47 app=segundo_plano audio=true
+11-25 03:27:49.655 17248 17248 D NocturneSesion: TICK n=48 t=00:48 app=segundo_plano audio=true
+11-25 03:27:50.658 17248 17248 D NocturneSesion: TICK n=49 t=00:49 app=segundo_plano audio=true
+11-25 03:27:51.656 17248 17248 D NocturneSesion: TICK n=50 t=00:50 app=segundo_plano audio=true
+11-25 03:27:52.656 17248 17248 D NocturneSesion: TICK n=51 t=00:51 app=segundo_plano audio=true
+11-25 03:27:53.657 17248 17248 D NocturneSesion: TICK n=52 t=00:52 app=segundo_plano audio=true
+11-25 03:27:54.658 17248 17248 D NocturneSesion: TICK n=53 t=00:53 app=segundo_plano audio=true
+11-25 03:27:55.655 17248 17248 D NocturneSesion: TICK n=54 t=00:54 app=segundo_plano audio=true
+11-25 03:27:56.659 17248 17248 D NocturneSesion: TICK n=55 t=00:55 app=segundo_plano audio=true
+11-25 03:27:57.656 17248 17248 D NocturneSesion: TICK n=56 t=00:56 app=segundo_plano audio=true
+11-25 03:27:58.656 17248 17248 D NocturneSesion: TICK n=57 t=00:57 app=segundo_plano audio=true
+11-25 03:27:59.657 17248 17248 D NocturneSesion: TICK n=58 t=00:58 app=segundo_plano audio=true
+11-25 03:28:00.654 17248 17248 D NocturneSesion: TICK n=59 t=00:59 app=segundo_plano audio=true
+11-25 03:28:01.655 17248 17248 D NocturneSesion: TICK n=60 t=01:00 app=segundo_plano audio=true
+11-25 03:28:01.655 17248 17248 I NocturneSesion: Temporizador de sueño cumplido (01:00)
+11-25 03:28:01.677 17248 17248 I NocturneSesion: stopForeground(REMOVE) + stopSelf: duracion=01:00 actualizaciones=60
+11-25 03:28:01.679 17248 17248 I NocturneSesion: onDestroy
